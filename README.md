@@ -1,5 +1,4 @@
-# mypractice
-for test repo
+# my practice
 This is a public repository
 testing vi
  
